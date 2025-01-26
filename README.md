@@ -3,9 +3,9 @@ Analyzing shopping trends data using Python can provide valuable insights for bu
 
 The complete EDA Process is completed by three easy steps those are as follows-
 
-Data Collection:- I had acquired a dataset containing relevant shopping data. This could include information such as purchase history, customer demographics, product details, and transaction timestamps. this is a csv file.
+1.Data Collection:- I had acquired a dataset containing relevant shopping data. This could include information such as purchase history, customer demographics, product details, and transaction timestamps. this is a csv file.
 
-Data Cleaning and Preprocessing: The data cleaning process is one of the most important step in data analytics where we actually clean the data according to our requirement. This includes Following steps such as:
+2.Data Cleaning and Preprocessing: The data cleaning process is one of the most important step in data analytics where we actually clean the data according to our requirement. This includes Following steps such as:
 
 Handle missing or incomplete data.
 Convert data types if needed.
