@@ -9,9 +9,7 @@ The complete EDA Process is completed by three easy steps those are as follows-
 
 ** Handle missing or incomplete data.                                                                                                                                                                                  
 ** Convert data types if needed.
-
 ** Remove duplicates.
-
 ** Standardize and normalize data.
 
 3.Exploratory Data Analysis (EDA): Here, I had Visualized data distribution using histograms, box plots, and scatter plots, Explored correlations between different variables. Identified outliers and anomalies. At the end I had mentioned the insights recovered from data so that it can help to take data driven buisiness decisions.
