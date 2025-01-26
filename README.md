@@ -7,7 +7,7 @@ The complete EDA Process is completed by three easy steps those are as follows-
 
 2.Data Cleaning and Preprocessing: The data cleaning process is one of the most important step in data analytics where we actually clean the data according to our requirement. This includes Following steps such as:
 
-** Handle missing or incomplete data.
+** Handle missing or incomplete data.\n
 ** Convert data types if needed.
 ** Remove duplicates.
 ** Standardize and normalize data.
