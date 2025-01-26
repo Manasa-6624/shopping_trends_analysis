@@ -1,4 +1,4 @@
-# shopping_trends_analysis
+# Shopping_trends_analysis
 Analyzing shopping trends data using Python can provide valuable insights for businesses and retailers to make informed decisions. Below is a project description that outlines the key steps and components of a shopping trends data analysis project using Python. Objective: The objective of this project is to analyze shopping trends based on historical data to identify patterns, preferences, and potential opportunities for businesses and retailers.
 
 The complete EDA Process is completed by three easy steps those are as follows-
@@ -11,4 +11,5 @@ The complete EDA Process is completed by three easy steps those are as follows-
 >>Convert data types if needed.
 >>Remove duplicates.
 >>Standardize and normalize data.
+
 3.Exploratory Data Analysis (EDA): Here, I had Visualized data distribution using histograms, box plots, and scatter plots, Explored correlations between different variables. Identified outliers and anomalies. At the end I had mentioned the insights recovered from data so that it can help to take data driven buisiness decisions.
